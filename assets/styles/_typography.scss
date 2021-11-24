@@ -10,8 +10,21 @@
 
 h1{
   font-weight: semi-bold;
+  padding-bottom: 20px;
 }
 
+p{
+  color: $tertiary-colors
+}
+
+h2{
+  font-size: 24px
+}
+
+h3{
+  font-size: 16px;
+  padding-bottom: 10px;
+}
 
 //Mobile: 320px
 //Tablet: 768px
