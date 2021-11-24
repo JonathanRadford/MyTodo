@@ -123,10 +123,10 @@ h3 {
 
 @media only screen and (min-width: 1024px) {
   .main {
-    padding: 100px 300px;
+    padding: 50px 300px;
   }
 
   .tasks {
-    padding: 30px 20px 0 20px;
+    padding: 50px 300px;
   }
 }
