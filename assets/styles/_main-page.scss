@@ -1,0 +1,16 @@
+@import "_variables";
+
+#story-img{
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+@media only screen and (min-width: 768px) {
+  #story-img{
+    margin-top: 20px;
+    width: 300px;
+    height: auto;
+  }
+}
